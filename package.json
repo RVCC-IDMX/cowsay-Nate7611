@@ -1,0 +1,20 @@
+{
+  "name": "cowsay-nate7611",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-Nate7611.git"
+  },
+  "keywords": [],
+  "author": "Nate Downey <natedowneymain@gmail.com> (https://github.com/Nate7611)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-Nate7611/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-Nate7611#readme"
+}
